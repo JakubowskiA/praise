@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.17",
+    "@emotion/styled": "^10.0.17",
+    "next": "9.0.5",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-spring": "^8.0.27",
+    "socket.io-client": "^2.2.0"
+  }
+}
